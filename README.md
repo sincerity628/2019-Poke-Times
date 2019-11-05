@@ -1,4 +1,4 @@
-# 2019-Poke'Times Little Post
+# 2019-Poke'Times Cool App
 
 ## Project setup
 ```
