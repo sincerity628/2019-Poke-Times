@@ -1,2 +1,11 @@
-# 2019-Poke-Times
-A simple blog app with React &amp; Redux : )
+# 2019-Poke'Times Little Post
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm start
+```
